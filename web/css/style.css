@@ -46,7 +46,7 @@ body {
 }
 
 .content h1 {
-  font-weight: 400 !important;
+  font-weight: 700 !important;
   text-transform: uppercase;
   filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
 }
@@ -56,12 +56,6 @@ body {
   text-transform: uppercase;
   font-weight: 400 !important;
   font-size: 17px;
-}
-
-.content h1 span {
-  font-weight: 700;
-  display: block;
-  margin: -10px 0 0 0;
 }
 
 .content .logo {
