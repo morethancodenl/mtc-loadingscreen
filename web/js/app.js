@@ -15,7 +15,7 @@ function waitForMs(ms) {
 }
 
 function repeatTypeSentence() {
-    typeSentence("is loading...", "#sentence");
+    typeSentence("Loading...", "#sentence");
 }
 
 setInterval(repeatTypeSentence, 15000);
