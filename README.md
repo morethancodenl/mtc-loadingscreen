@@ -1,4 +1,4 @@
-IMAGE SOON.
+![mtc-loadingscreen](https://i.imgur.com/TjCzUM6.png)
 
 # Loadingscreen
 A clean More Than Code loadingscreen resource for FiveM servers.
