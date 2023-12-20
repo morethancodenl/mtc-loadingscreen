@@ -1,7 +1,7 @@
 ![mtc-loadingscreen](https://i.imgur.com/TjCzUM6.png)
 
 # Loadingscreen
-A clean More Than Code loadingscreen resource for FiveM servers.
+A standalone loadingscreen resource for FiveM servers, within the loadingscreen we focused on a clean More Than Code UI.
 
 ## 🔌 Installation
 To get started with the MTC loadingscreen resource, follow these steps:
