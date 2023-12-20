@@ -1,7 +1,7 @@
 async function typeSentence(sentence, eleRef, delay = 100) {
     const letters = sentence.split("");
     let i = 0;
-    $(eleRef).empty(); // Leeg het element voordat een nieuwe zin wordt getypt
+    $(eleRef).empty();
     while (i < letters.length) {
         await waitForMs(delay);
         $(eleRef).append(letters[i]);
