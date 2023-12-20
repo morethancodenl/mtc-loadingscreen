@@ -8,14 +8,14 @@ version "1.0.0"
 
 lua54 'yes'
 
-loadscreen 'ui/index.html'
+loadscreen 'web/index.html'
 
 files {
-    'ui/*.html',
-    'ui/css/*.css',
-    'ui/js/*.js',	
-    'ui/img/*.png',
-    'ui/video/*.webm',
+    'web/*.html',
+    'web/css/*.css',
+    'web/js/*.js',	
+    'web/img/*.png',
+    'web/video/*.webm',
 }
 
 shared_scripts {
