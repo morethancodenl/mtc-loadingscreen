@@ -26,4 +26,5 @@ client_scripts {
     'client/*.lua'
 } 
 
-loadscreen_manual_shutdown "yes"
+loadscreen_cursor 'no'
+loadscreen_manual_shutdown 'yes'
