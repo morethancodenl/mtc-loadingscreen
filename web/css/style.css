@@ -21,8 +21,9 @@ body {
 
 .bg-mtc {
   --mtc-opacity: 1;
-  --mtc-rgb: 48, 176, 127; /* Change to you're own color -> 16, 152, 173*/
-  background-color: rgba(var(--mtc-rgb),var(--mtc-opacity)) !important;
+  --mtc-rgb: 48, 176, 127;
+  /* Change to you're own color -> 16, 152, 173*/
+  background-color: rgba(var(--mtc-rgb), var(--mtc-opacity)) !important;
 }
 
 .overlay {
