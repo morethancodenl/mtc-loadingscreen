@@ -18,10 +18,6 @@ files {
     'web/video/*.webm',
 }
 
-shared_scripts {
-	'shared/*.lua'
-}
-
 client_scripts {
     'client/*.lua'
 } 
