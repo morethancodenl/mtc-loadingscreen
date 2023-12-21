@@ -14,13 +14,6 @@ To get started with the MTC loadingscreen resource, follow these steps:
 
 Soon
 
-## 🎨 Can I change the color of the progress bar?
-To change the color of the progress bar to another color, follow these steps:
-
-1. Go to **ui** ```>``` **css** ```>``` **style.css** and look for ```.bg-mtc``` *(starts on line 22)*.
-2. Change the ```RGB value``` on line ```24``` to your own preference.
-3. Save the file.
-
 ## 👉 Join our community
 
 [![Discord](https://discord.com/api/guilds/1075048579758035014/widget.png?style=banner2)](https://discord.gg/cFuv5BMWzK)

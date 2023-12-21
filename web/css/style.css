@@ -19,13 +19,6 @@ body {
   font-family: 'Century Gothic Paneuropean', sans-serif !important;
 }
 
-.bg-mtc {
-  --mtc-opacity: 1;
-  --mtc-rgb: 48, 176, 127;
-  /* Change to you're own color -> 16, 152, 173*/
-  background-color: rgba(var(--mtc-rgb), var(--mtc-opacity)) !important;
-}
-
 .overlay {
   background-image: url(../img/frame.png);
   background-repeat: no-repeat;
