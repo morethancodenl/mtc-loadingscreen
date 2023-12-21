@@ -12,7 +12,10 @@ To get started with the MTC loadingscreen resource, follow these steps:
 
 ## 🖼️ Showcase
 
-Soon
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=aM9Thr4uJ94"><img src="https://i.imgur.com/nGjhVVP.png" alt="IMAGE ALT TEXT"></a><br/>
+  <i>For a video showcase, click on the image above.</i>
+</div>
 
 ## 👉 Join our community
 
